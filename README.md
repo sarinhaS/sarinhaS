@@ -19,9 +19,11 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/sarinhaS">
-  <img src="https://i.pinimg.com/originals/10/93/89/109389157312ae5ae6b03a48a4e6706b.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
+<div  style="display: flex; justify-content: center;">
+  <a href="https://github.com/sarinhaS">
+  <img src="totoro" alt="Fallout GIF" style="width:100%; height:auto;"/>
+  </a>
+</div>
 
 <!--<h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
