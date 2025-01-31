@@ -87,7 +87,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,raspberrypi,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,gitlab,raspberrypi,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma," /><br>
     <img src="https://skillicons.dev/icons?i=javascript,mysql,bootstrap" /><br>
 </div>
