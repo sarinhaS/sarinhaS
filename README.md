@@ -45,7 +45,7 @@
        alt="Total stars" 
        title="Total stars on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sarinhaS" /></a>
-<a href="https://www.linkedin.com/in/sara-longo-474a6a309/">
+<a href="https://www.linkedin.com/in/saralongo56/">
   <img width="147px" 
        alt="Followers" 
        title="Follow me on GitHub" 
